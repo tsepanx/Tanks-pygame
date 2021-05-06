@@ -15,3 +15,7 @@ source .venv/bin/activate
 
 pip install -r requirements.txt
 ```
+
+### Demonstration
+
+![gif](https://i.imgur.com/pJfemjR.gif)
